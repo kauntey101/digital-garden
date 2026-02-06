@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/activities/","updated":"2026-02-06T14:08:02.727+05:30"}
+{"dg-publish":true,"permalink":"/activities/","updated":"2026-02-06T15:44:50.862+05:30"}
 ---
 
 
-## Running Metrics
+## Running
 <div class="strava-widget">
   <iframe
     height="160"
